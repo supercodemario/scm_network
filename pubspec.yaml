@@ -1,7 +1,7 @@
 name: scm_network
 description: "http based network preset"
 version: 0.0.1
-homepage:
+homepage: "https://github.com/supercodemario/scm_network"
 
 environment:
   sdk: ^3.9.2
